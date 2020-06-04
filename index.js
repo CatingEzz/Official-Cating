@@ -11,9 +11,9 @@ client.aliases = new Collection();
 
 client.categories = fs.readdirSync("./commands/");
 
-config({
-    path: __dirname + "/.env"
-});
+//config({
+//    path: __dirname + "/.env"
+//});
 
 ["command"].forEach(handler => {
     require(`./handlers/${handler}`)(client);
