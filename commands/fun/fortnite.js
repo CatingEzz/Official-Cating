@@ -2,7 +2,7 @@ const { RichEmbed } = require("discord.js");
 const { stripIndents } = require("common-tags");
 
 const Client = require("fortnite");
-const ft = new Client(process.env.FORTNITE);
+const ft = new Client(process.env.fortnite);
 
 module.exports = {
     name: "fortnite",
