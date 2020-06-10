@@ -25,7 +25,7 @@ client.on("ready", () => {
     client.user.setPresence({
         status: "online",
         game: {
-            name: "My prefix is >",
+            name: ">help",
             type: "STREAMING"
         }
     }); 
