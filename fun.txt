@@ -7,4 +7,4 @@
 <a:22:717516241459347476> `>cow` **Show a with the letter in reverse** __Usage__: *>cow*
 <a:22:717516241459347476> `>rps` **Rock Paper Scissors game. React to one of the emojis to play the game** __Usage__: *>rps*
 <a:22:717516241459347476> `>love` **Show a with the letter in reverse** __Usage__: *>love*
-<a:22:717516241459347476> `>joke` **This command tells you a joke** __Usage__: *>joke*
+<a:22:717516241459347476> `>joke` **This command tells you a joke** __Usage__: *>joke
